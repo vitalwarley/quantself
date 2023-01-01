@@ -1,0 +1,358 @@
+﻿#-------------------------------------------
+# Food Diary Report - Detailed Report,"Sunday, March 14, 2021","Saturday, March 20, 2021"
+#-------------------------------------------
+
+#-------------------------------------------
+# Period Summary
+#-------------------------------------------
+Daily Average,Cals ( kcal),Fat( g),Carbs( g),Prot( g)
+Total,2099,58.44,233.03,169.49
+Breakfast,448,14.05,53.77,29.07
+Lunch,508,11.95,49.35,53.25
+Dinner,725,21.33,76.19,57.16
+Snacks/Other,418,11.11,53.72,30
+
+#-------------------------------------------
+# Report Details
+#-------------------------------------------
+Date,Cals ( kcal),Fat( g),Sat( g),Carbs( g),Fiber( g),Sugar( g),Prot( g),Sod( mg),Chol( mg),Potassium( mg)
+
+"Sunday, March 14, 2021",1505,40.12,10.027,147.79,24.8,40.55,150.34,905.88,199,711
+ Breakfast,259,11.27,5.814,20.09,4,0.34,19.83,390.4,199,59
+  Davaca Queijo Mussarela Light,64,3.2,2.4,0,0,,8,112,0,
+"   1 fatia, 30 g"
+  Regina Creme de Ricota Light,40,2.7,1.7,1.3,0,,2.6,67,13,
+"   1 1/2 colher de sopa, 30 g"
+  Limiar Pão Australiano,71,0.4,0,14.4,4,,3.04,134.4,,
+   40 g
+  Egg,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Linea Doce de Leite Zero Açúcar,19,0.6,0.35,4.05,0,,0.65,15,0,
+"   1/2 x 1 colher de sopa, 10 g"
+ Lunch,262,7.98,1.03,11.9,1.3,,35.7,103.5,0,0
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Perdigão Filé de Peito,152,1.5,0,0,0,,34.5,103.5,0,
+   150 g
+  Batata Inglesa (Cozida),52,0,,11.9,1.3,,1.2,,,
+   100 g
+ Dinner,236,8.08,1.082,6.5,0.5,1.36,35.5,104.5,0,340
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Perdigão Filé de Peito,152,1.5,0,0,0,,34.5,103.5,0,
+   150 g
+  Pumpkin,26,0.1,0.052,6.5,0.5,1.36,1,1,0,340
+   100 g
+ Snacks/Other,748,12.79,2.101,109.3,19,38.85,59.31,307.48,0,312
+  Silver Banana,160,0.59,0.202,41.11,4.7,22.01,1.96,2,0,
+   180 g
+  Regina Leite Zero Desnatado,36,0.4,0.25,5,,,3,55,,
+"   1/2 x 1 porção, 100 ml"
+  Growth Supplements Whey Protein Concentrado 80%,184,2.4,0,6,0,,34.5,79.5,0,
+"   1 1/2 x 1 porção, 45 g"
+  Apple,78,0.26,0.042,20.72,3.6,15.58,0.39,2,0,160
+   150 g
+  Itambé Leite em Pó Desnatado,102,0,,15,,,10.35,120,,
+"   1 1/2 x 1 colher de sopa, 30 g"
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Cocoa Powder,23,1.37,0.807,5.43,3.3,0.18,1.96,2,0,152
+   10 g
+  Mãe Terra Farinha de Linhaça Dourada,66,6,0.5,0.2,4.1,0,2.7,4.5,0,
+"   2 colheres de sopa, 15 g"
+  Marilan Magic Toast Integral,33,0.22,0,6.84,0.5,1.08,0.9,42.48,0,
+   9 g
+
+"Monday, March 15, 2021",1854,46.85,16.759,212.93,27.05,23.09,148.41,1626.52,380.67,1083.9
+ Breakfast,267,11.44,6.044,19.66,4,0.34,21.62,405.39,194.67,59
+  Limiar Pão Australiano,71,0.4,0,14.4,4,,3.04,134.4,,
+   40 g
+  Egg,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Regina Creme de Ricota Light,27,1.8,1.13,0.87,0,,1.73,44.69,8.67,
+   20 g
+  Davaca Queijo Mussarela Light,85,4.27,3.2,0,0,,10.66,149.3,0,
+   40 g
+  Linea Doce de Leite Zero Açúcar,19,0.6,0.35,4.05,0,,0.65,15,0,
+"   1/2 x 1 colher de sopa, 10 g"
+ Lunch,558,9.1,1.119,66.56,11.82,12.36,55.66,265,0,582.2
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Silver Banana,53,0.2,0.067,13.7,1.6,7.34,0.65,1,0,
+   60 g
+  Filé de Peito,202,2,0,0,0,,46,138,0,
+   200 g
+  Batata Inglesa (Cozida),42,0,,9.52,1.04,,0.96,,,
+   80 g
+  Sweet Potato,103,0.06,0.022,24.14,3.6,5.02,1.88,66,0,404
+   120 g
+  Hortifruti Goiaba Vermelha,49,0.36,,11.7,5.58,,0.99,,,178.2
+   90 g
+  Itambé Leite em Pó Desnatado,51,0,,7.5,,,5.18,60,,
+"   3/4 x 1 colher de sopa, 15 g"
+ Dinner,136,1.23,0.039,4.88,0.4,1.02,27.2,80.35,0,255
+  Perdigão Filé de Peito,116,1.15,0,0,0,,26.45,79.35,0,
+   115 g
+  Pumpkin,20,0.08,0.039,4.88,0.4,1.02,0.75,1,0,255
+   75 g
+ Snacks/Other,893,25.08,9.557,121.83,10.83,9.37,43.93,875.78,186,187.7
+  Marilan Magic Toast Integral,33,0.22,0,6.84,0.5,1.08,0.9,42.48,0,
+   9 g
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Growth Supplements Whey Protein Concentrado 80%,61,0.8,0,2,0,,11.5,26.5,0,
+"   1/2 x 1 porção, 15 g"
+  Regina Leite Zero Desnatado,18,0.2,0.12,2.5,,,1.5,27.5,,
+"   1/4 x 1 porção, 50 ml"
+  Silver Banana,58,0.21,0.073,14.85,1.7,7.95,0.71,1,0,
+   65 g
+  Hortifruti Goiaba Vermelha,35,0.26,,8.45,4.03,,0.72,,,128.7
+   65 g
+  Egg,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Davaca Queijo Mussarela Light,85,4.27,3.2,0,0,,10.66,149.3,0,
+   40 g
+  Santa Massa Pão Doce,472,13.2,4.5,77.85,1.8,,8.85,567,,
+   150 g
+
+"Tuesday, March 16, 2021",1636,40.6,13.652,187.46,24.24,25.66,140.38,1223.8,186,746
+ Breakfast,805,20.97,8.856,112.4,9,12.42,40.09,841.35,0,99
+  Santa Massa Pão Doce,472,13.2,4.5,77.85,1.8,,8.85,567,,
+   150 g
+  Davaca Queijo Mussarela Light,107,5.33,4,0,0,,13.34,186.7,0,
+   50 g
+  Nestlé Coalhada Desnatada,48,0,0,6.3,0,6.3,5.6,70,0,
+"   1 unidade, 140 g"
+  Silver Banana,44,0.16,0.056,11.42,1.3,6.12,0.54,0,0,
+   50 g
+  Hortifruti Goiaba Vermelha,27,0.2,,6.5,3.1,,0.55,,,99
+   50 g
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Growth Supplements Whey Protein Concentrado 80%,41,0.53,0,1.33,0,,7.66,17.65,0,
+   10 g
+ Lunch,335,8.45,1.039,22.15,2.44,9.26,44.05,128.65,0,115
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Perdigão Filé de Peito,187,1.85,0,0,0,,42.55,127.65,0,
+   185 g
+  Pineapple,48,0.12,0.009,12.63,1.4,9.26,0.54,1,0,115
+   100 g
+  Batata Inglesa (Cozida),42,0,,9.52,1.04,,0.96,,,
+   80 g
+ Dinner,267,1.72,0.009,21.96,2.8,2.09,41.08,145.3,0,168
+  Perdigão Filé de Peito,172,1.7,0,0,0,,39.1,117.3,0,
+   170 g
+  Batata Inglesa (Cozida),52,0,,11.9,1.3,,1.2,,,
+   100 g
+  Sweet Potato,43,0.02,0.009,10.06,1.5,2.09,0.78,28,0,168
+   50 g
+ Snacks/Other,229,9.46,3.748,30.95,10,1.89,15.16,108.5,186,364
+  Cocoa Powder,46,2.74,1.614,10.86,6.6,0.35,3.92,4,0,305
+   20 g
+  Ovo,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Regina Leite Zero Desnatado,18,0.2,0.12,2.5,,,1.5,27.5,,
+"   1/4 x 1 porção, 50 ml"
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Hué Geléia de Goiaba Diet,15,0,0,4.2,0.6,1.2,0,0,0,
+"   1 colher de sopa, 20 g"
+  Linea Doce de Leite Zero Açúcar,19,0.6,0.35,4.05,0,,0.65,15,0,
+"   1/2 x 1 colher de sopa, 10 g"
+
+"Wednesday, March 17, 2021",1658,45.6,15.563,187.98,28.32,31.57,144.73,1069.67,571.34,751.6
+ Breakfast,576,12.83,5.97,77.71,12.44,12.76,42,580.7,186,197.6
+  Davaca Queijo Mussarela Light,85,4.27,3.2,0,0,,10.66,149.3,0,
+   40 g
+  Ovo,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Limiar Pão Australiano,71,0.4,0,14.4,4,,3.04,134.4,,
+   40 g
+  Linea Doce de Leite Zero Açúcar,57,1.8,1.05,12.15,0,,1.95,45,0,
+"   1 1/2 x 1 colher de sopa, 30 g"
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Hortifruti Goiaba Vermelha,38,0.28,,9.1,4.34,,0.77,,,138.6
+   70 g
+  Silver Banana,44,0.16,0.056,11.42,1.3,6.12,0.54,0,0,
+   50 g
+  Nestlé Coalhada Desnatada,48,0,0,6.3,0,6.3,5.6,70,0,
+"   1 unidade, 140 g"
+  Itambé Leite em Pó Desnatado,102,0,,15,,,10.35,120,,
+"   1 1/2 x 1 colher de sopa, 30 g"
+ Lunch,433,10.93,3.476,44.55,4.78,16.67,47.32,227.47,13.34,207
+  Andorinha Azeite de Oliva Extra Virgem,42,4.62,0.73,0,0,,0,0,0,0
+   5 ml
+  Filé de Peito,177,1.75,0,0,0,,40.25,120.75,0,
+   175 g
+  Batata Inglesa (Cozida),92,0,,20.82,2.28,,2.1,,,
+   175 g
+  Pineapple,86,0.22,0.016,22.73,2.5,16.67,0.97,2,0,207
+   180 g
+  Vigor Requeijão Light,36,4.34,2.73,1,0,,4,104.72,13.34,
+   20 g
+ Dinner,289,7.98,1.03,17.85,1.95,,36.3,103.5,0,0
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Perdigão Filé de Peito,152,1.5,0,0,0,,34.5,103.5,0,
+   150 g
+  Batata Inglesa (Cozida),79,0,,17.85,1.95,,1.8,,,
+   150 g
+ Snacks/Other,360,13.86,5.087,47.87,9.15,2.14,19.11,158,372,347
+  Cocoa Powder,34,2.06,1.21,8.14,5,0.26,2.94,3,0,229
+   15 g
+  Ovo,129,8.75,2.727,0.68,0,0.68,11.07,123,372,118
+   2 medium
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Hué Geléia de Goiaba Diet,15,0,0,4.2,0.6,1.2,0,0,0,
+"   1 colher de sopa, 20 g"
+  Canaã Goma de Tapioca,75,0,0,18.45,0.75,,0,0,,
+"   1 1/2 x 1 colher de sopa, 30 g"
+  Linea Doce de Leite Zero Açúcar,19,0.6,0.35,4.05,0,,0.65,15,0,
+"   1/2 x 1 colher de sopa, 10 g"
+  Hué Brigadeiro de Colher Diet,22,0.9,0.5,3.35,0,,0.9,17,0,
+"   1/2 x 1 colher de sopa, 10 g"
+
+"Thursday, March 18, 2021",1699,57.83,18.461,162.44,22.91,26.62,147.26,2037.2,595.6,695
+ Breakfast,380,15.83,8.701,44.15,8.01,20.41,26.04,504.7,206,281
+  Limiar Pão Australiano,71,0.4,0,14.4,4,,3.04,134.4,,
+   40 g
+  Egg,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Vigor Requeijão Light,54,6.5,4.1,1.5,0,,6,157,20,
+"   1 colheres de sopa, 30 g"
+  Hué Geléia de Goiaba Diet,5,0,0,1.47,0.21,0.42,0,0,0,
+   7 g
+  Davaca Queijo Mussarela Light,85,4.27,3.2,0,0,,10.66,149.3,0,
+   40 g
+  Pineapple,48,0.12,0.009,12.63,1.4,9.26,0.54,1,0,115
+   100 g
+  Apple,52,0.17,0.028,13.81,2.4,10.39,0.26,1,0,107
+   100 g
+ Lunch,523,22,3.2,31.8,2.6,,48.4,1130,17.6,
+  Filé de Peito,202,2,0,0,0,,46,138,0,
+   200 g
+  Batata Inglesa (Cozida),105,0,,23.8,2.6,,2.4,,,
+   200 g
+  Hellmann's Maionese Toque de Limão,216,20,3.2,8,0,,0,992,17.6,
+"   8 x 1 colher de sopa, 96 g"
+ Dinner,489,18,6.56,62.69,9.7,6.21,24.42,264.5,372,414
+  Cacau em Pó,23,1.37,0.807,5.43,3.3,0.18,1.96,2,0,152
+   10 g
+  Ovo,129,8.75,2.727,0.68,0,0.68,11.07,123,372,118
+   2 medium
+  Silver Banana,36,0.13,0.045,9.14,1,4.89,0.44,0,0,143
+   40 g
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+  Bauducco Cereale Cacau e Castanhas,120,5,2,16,2.5,,2.7,75,,
+"   4 1/2 unidades, 30 g"
+  Goma de Tapioca,49,0,0.001,12.07,0.1,0.46,0.03,0,0,1
+   20 g
+  Linea Doce de Leite Zero Açúcar,10,0.3,0.18,2.02,0,,0.32,7.5,0,
+"   1/4 x 1 colher de sopa, 5 g"
+  Itambé Leite em Pó Desnatado,34,0,,5,,,3.45,40,,
+"   1/2 x 1 colher de sopa, 10 g"
+  Hué Brigadeiro de Colher Diet,22,0.9,0.5,3.35,0,,0.9,17,0,
+"   1/2 x 1 colher de sopa, 10 g"
+ Snacks/Other,307,2,0,23.8,2.6,,48.4,138,0,
+  Perdigão Filé de Peito,202,2,0,0,0,,46,138,0,
+   200 g
+  Batata Inglesa (Cozida),105,0,,23.8,2.6,,2.4,,,
+   200 g
+
+"Friday, March 19, 2021",4865,136.94,57.217,589.99,31.7,16.09,315.17,5740.02,3.34,368
+ Breakfast,535,16.68,9.3,62.97,10.6,7.57,34.59,649.02,3.34,75
+  Apple,36,0.12,0.02,9.67,1.7,7.27,0.18,1,0,75
+   70 g
+  Davaca Queijo Mussarela Light,149,7.47,5.6,0,0,,18.66,261.3,0,
+   70 g
+  Limiar Pão Australiano,89,0.5,0,18,5,,3.8,168,,
+"   2 fatias médias, 50 g"
+  Hué Geléia de Goiaba Diet,4,0,0,1.05,0.15,0.3,0,0,0,
+"   1/4 x 1 colher de sopa, 5 g"
+  Vigor Requeijão Light,9,1.09,0.68,0.25,0,,1,26.22,3.34,
+   5 g
+  Itambé Leite em Pó Desnatado,68,0,,10,,,6.9,80,,
+"   1 colher de sopa, 20 g"
+  Bauducco Cereale Cacau e Castanhas ,180,7.5,3,24,3.75,,4.05,112.5,,
+"   1 1/2 x 4 1/2 unidades, 45 g"
+ Lunch,1059,16.56,6.117,138.02,13.2,8.52,93.28,630.5,0,293
+  Filé de Peito,252,2.5,0,0,0,,57.5,172.5,0,
+   250 g
+  Batata Inglesa (Cozida),210,0,,47.6,5.2,,4.8,,,
+   400 g
+  Bauducco Cereale Cacau e Castanhas,240,10,4,32,5,,5.4,150,,
+"   2 x 4 1/2 unidades, 60 g"
+  Itambé Leite em Pó Desnatado,204,0,,30,,,20.7,240,,
+"   3 x 1 colher de sopa, 60 g"
+  Banana,36,0.13,0.045,9.14,1,4.89,0.44,0,0,143
+   40 g
+  Goiaba,17,0.24,0.068,3.58,1.4,2.23,0.64,0,0,104
+   25 g
+  Morangos,10,0.09,0.004,2.3,0.6,1.4,0.2,0,0,46
+   30 g
+  Hué Brigadeiro de Colher Diet,45,1.8,1,6.7,0,,1.8,34,0,
+"   1 colher de sopa, 20 g"
+  Hué Brigadeiro de Colher Diet,45,1.8,1,6.7,0,,1.8,34,0,
+"   1 colher de sopa, 20 g"
+ Dinner,3271,103.7,41.8,389,7.9,,187.3,4460.5,0,
+  Perdigão Filé de Peito,152,1.5,0,0,0,,34.5,103.5,0,
+   150 g
+  Pizza Hut Bacon C/ Requeijão Pan Pizza (Grande),1296,76,28.4,96,5.2,,60,3128,,
+"   4 x 1 fatia, 488 g"
+  Pizza Hut Pizza de Brigadeiro,792,16,8,136,0,,16,144,0,
+"   4 x 1 fatia, 272 g"
+  Bauducco Biscoito Maizena (7),351,10.2,5.4,57,2.7,,7.8,285,0,
+"   3 x 7 biscoitos, 90 g"
+  Itambé Leite em Pó Desnatado,680,0,,100,,,69,800,,
+"   10 x 1 colher de sopa, 200 g"
+ Snacks/Other,,,,,,,,,,
+
+"Saturday, March 20, 2021",1474,41.14,6.338,142.64,29.83,49.91,140.11,656.8,186,577.7
+ Breakfast,311,9.35,2.876,39.4,6.1,15.92,19.35,281.15,186,219
+  Apple,78,0.26,0.042,20.72,3.6,15.58,0.39,2,0,160
+   150 g
+  Egg,65,4.37,1.364,0.34,0,0.34,5.54,62,186,59
+   1 medium
+  Limiar Pão Australiano,44,0.25,0,9,2.5,,1.9,84,,
+"   1/2 x 2 fatias médias, 25 g"
+  Quatá Queijo tipo Cottage,43,2.45,1.47,0,0,,5.11,130.9,0,
+   35 g
+  Antunes Queijo Ricota Temperada,81,2.02,,9.34,,,6.41,2.25,,
+   45 g
+ Lunch,387,8.6,1.039,30.48,3.35,9.26,48.34,139,0,115
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Filé de Peito,202,2,0,0,0,,46,138,0,
+   200 g
+  Batata Inglesa (Cozida),79,0,,17.85,1.95,,1.8,,,
+   150 g
+  Pineapple,48,0.12,0.009,12.63,1.4,9.26,0.54,1,0,115
+   100 g
+ Dinner,387,8.6,1.039,30.48,3.35,9.26,48.34,139,0,115
+  Azeite de Oliva Extra Virgem,58,6.48,1.03,0,0,,0,0,0,0
+   7 ml
+  Filé de Peito,202,2,0,0,0,,46,138,0,
+   200 g
+  Batata Inglesa (Cozida),79,0,,17.85,1.95,,1.8,,,
+   150 g
+  Pineapple,48,0.12,0.009,12.63,1.4,9.26,0.54,1,0,115
+   100 g
+ Snacks/Other,389,14.59,1.384,42.28,17.03,15.47,24.08,97.65,0,128.7
+  Silver Banana,67,0.25,0.084,17.13,2,9.17,0.82,1,0,
+   75 g
+  Growth Supplements Whey Protein Concentrado 80%,41,0.53,0,1,0,,7.99,17.65,0,
+   10 g
+  Hortifruti Goiaba Vermelha,35,0.26,,8.45,4.03,,0.72,,,128.7
+   65 g
+  Nestlé Coalhada Desnatada,48,0,0,6.3,0,6.3,5.6,70,0,
+"   1 unidade, 140 g"
+  Mãe Terra Farinha de Linhaça Dourada,132,12,1,0.4,8.2,0,5.4,9,0,
+"   2 x 2 colheres de sopa, 30 g"
+  A Granel Farelo de Aveia,66,1.55,0.3,9,2.8,,3.55,0,,
+"   1/2 x 1 porção, 20 g"
+
+Total,14691,409.08,138.017,1631.23,188.85,213.49,1186.4,13259.89,2121.95,4933.2
